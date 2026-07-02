@@ -16,3 +16,5 @@ while i < 3:
   i = i + 1
   print(i)
   
+KALI CODE 
+sudo apt update && sudo apt install -y fonts-nanum
